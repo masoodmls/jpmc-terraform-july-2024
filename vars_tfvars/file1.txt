@@ -1,0 +1,1 @@
+This is Terraform training for 5 days  true   in vars file 
